@@ -1,5 +1,5 @@
 # Inmolens_Remake
-A reverision of Inmolens app for my Air 2 glasses
+A reverision app for glasses
 
 git clone https://gitee.com/inmolens/inmo-ui-sdk-sample.gitcd inmo-ui-sdk-sample/inmo-ui-sdk-sample-android
 
