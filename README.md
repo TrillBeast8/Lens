@@ -1,7 +1,4 @@
-# Inmolens_Remake
-A reverision app for glasses
-
-git clone https://gitee.com/inmolens/inmo-ui-sdk-sample.gitcd inmo-ui-sdk-sample/inmo-ui-sdk-sample-android
+# Companion App Plan
 
 Minimum SDK: Android API 29 (Android 10) or higher
   Include:
